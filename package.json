@@ -1,0 +1,10 @@
+{
+  "name": "atproto-lexicon-ts",
+  "version": "1.0.0",
+  "description": "generated atproto lexicon code in typescript",
+  "main": "generate.sh",
+  "repository": "https://github.com/drewmcarthur/atproto-lexicon-ts",
+  "author": "drewmca.dev",
+  "license": "MIT",
+  "private": false
+}
