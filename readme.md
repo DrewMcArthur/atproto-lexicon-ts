@@ -1,5 +1,7 @@
 # atproto-lexicon-ts
 
+## WARNING this doesn't work yet, concept WIP
+
 generated typescript code for the atproto lexicon
 
 this repo basically just generates the lexicon code in [the atproto repo](https://github.com/bluesky-social/atproto)
